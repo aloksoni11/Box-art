@@ -1,0 +1,157 @@
+ body,
+ html {
+     height: 100%;
+     width: 100%;
+     margin: 0;
+ }
+
+ .main {
+     height: 100%;
+     width: 100%;
+     background-color: black;
+     position: relative;
+ }
+
+ .Topleft {
+     height: 100px;
+     width: 100px;
+     background-color: aliceblue;
+     position: absolute;
+     left: 0;
+
+ }
+
+ .Topright {
+     height: 100px;
+     width: 100px;
+     background-color: aliceblue;
+     position: absolute;
+     right: 0;
+ }
+
+ .Topleftbottom {
+     height: 100px;
+     width: 100px;
+     background-color: aliceblue;
+     position: absolute;
+     left: 0;
+     bottom: 0;
+
+ }
+
+ .Toprightbottom {
+     height: 100px;
+     width: 100px;
+     background-color: aliceblue;
+     position: absolute;
+     right: 0;
+     bottom: 0;
+ }
+
+ .middle {
+     height: 100px;
+     width: 100px;
+     background-color: aliceblue;
+     position: absolute;
+     right: 0;
+     bottom: 0;
+     left: 0;
+     top: 0;
+     margin: auto;
+ }
+.left1{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 70px;
+    left: 130px;
+}
+.left2{
+     height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 140px;
+    left: 260px;
+}
+.left3{
+     height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 210px;
+    left: 390px;
+}
+.right1{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 70px;
+    right: 130px;
+}
+.right2{
+     height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 140px;
+    right: 260px;
+}
+.right3{
+     height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    top: 210px;
+    right: 390px;
+}
+.bottomright1{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    bottom: 70px;
+    right: 130px;
+}
+.bottomright2{
+     height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    bottom: 140px;
+    right: 260px;
+}
+.bottomright3{
+     height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    bottom: 210px;
+    right: 390px;
+}
+.bottomleft1{
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    bottom: 70px;
+    left: 130px;
+}
+.bottomleft2{
+     height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    bottom: 140px;
+    left: 260px;
+}
+.bottomleft3{
+     height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+    position: absolute;
+    bottom: 210px;
+    left: 390px;
+}
